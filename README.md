@@ -2,8 +2,10 @@
 
 ## Overview
 After our initial analysis of the PyBer data, we were asked to provide some additional information:
-    1. A DataFrame sorted by city type, showing Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Far per Driver.
-    2. A graph showing total fares by city type over time. 
+
+1. A DataFrame sorted by city type, showing Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Far per Driver.
+
+2. A graph showing total fares by city type over time. 
 
 With the graph, our CEO wanted to see if there was any discernable pattern over time that wasn't obvious when looking at the agreggated data from our initial analysis. The DataFrame provides an easy way to look at the Total Ride, Total Driver, and Total Fares data, as well as a new metric in Average Fare per Driver. The data for Median Fare per Ride was present in the previously created box and whisker plots, but she wanted the mean as well as all the data in one table.
 
